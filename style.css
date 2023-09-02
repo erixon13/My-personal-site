@@ -10,7 +10,11 @@
         width: 120px; /* Adjust the width for smaller screens */
     }
 }
-
+@media (max-width: 500px) {
+    .Marcus {
+        width: 70px; /* Adjust the width for smaller screens */
+    }
+}
 .h5 {
    color: #FFF5E0;
 }
